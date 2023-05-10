@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react_vk/static/css/main.642ca11f.css",
+    "main.js": "/react_vk/static/js/main.4dc2b63f.js",
+    "index.html": "/react_vk/index.html",
+    "main.642ca11f.css.map": "/react_vk/static/css/main.642ca11f.css.map",
+    "main.4dc2b63f.js.map": "/react_vk/static/js/main.4dc2b63f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.642ca11f.css",
+    "static/js/main.4dc2b63f.js"
+  ]
+}
